@@ -7,4 +7,5 @@
 		<?php else: ?>
 		<!-- no posts found -->
 		<?php endif; ?>
+
 </main>

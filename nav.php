@@ -10,8 +10,7 @@
 		<li><a href="#">Menu 07</a></li>
 		<li><a href="#">Menu 08</a></li>
 		<li><a href="#">Menu 09</a></li>
-		<li><a href="#">Menu 10</a></li>
-	</ul>
+	</ul>     
 </nav>
 
 <!-- include sidebar.php -->
