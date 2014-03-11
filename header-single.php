@@ -12,4 +12,4 @@
 <body class="single">
 
 	<!-- invlude slider.php -->
-	<?php get_template_part("nav"); ?>
+	<?php // get_template_part("nav"); ?>
